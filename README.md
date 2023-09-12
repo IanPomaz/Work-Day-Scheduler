@@ -55,7 +55,7 @@ This is under the MIT License.
 
 # Deployed Site
 
-https://github.com/IanPomaz/Work-Day-Scheduler
+
 
 # Deployed Repository
 
